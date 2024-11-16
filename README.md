@@ -148,7 +148,13 @@ student-management/
 - **Documentation de l'API** : Générée automatiquement avec Swagger.
 
 ---
+## Vidéo démonstrative
 
+
+https://github.com/user-attachments/assets/778d4010-a15e-4774-968a-c6ca50074f3c
+
+
+---
 ## Dépannage
 - **Problèmes de Connexion à la Base de Données** : Vérifiez les identifiants dans `application.properties`.
 - **Erreurs de Dépendances** : Exécutez `mvn clean install` pour rafraîchir les dépendances.
